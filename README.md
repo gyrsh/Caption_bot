@@ -7,8 +7,8 @@ Created using ResNet Prestained Weighted Layers.
 <a href="http://fvcproductions.com"><img src="https://github.com/gyrsh/Caption_bot/blob/master/Untitled%20Workspace.jpg" ></a>
 
 # Input 
-<a href="http://fvcproductions.com"><img src="https://github.com/gyrsh/Caption_bot/blob/master/download.png" ></a>
-<a href="http://fvcproductions.com"><img src="https://github.com/gyrsh/Caption_bot/blob/master/download%20(1).png" ></a>
+<!---<a href="http://fvcproductions.com"><img src="" ></a>
+<a href="http://fvcproductions.com"><img src="" ></a>--->
 
 # Model
 <a href="http://fvcproductions.com"><img src="https://github.com/gyrsh/Caption_bot/blob/master/Screenshot%20(50).png" ></a>
