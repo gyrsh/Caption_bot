@@ -1,4 +1,6 @@
 # Caption_bot
+The project takes Images as Input and returns its description as Output with max accuracy of 88%. 
+Created using ResNet Prestained Weighted Layers.
 
 
 # Project Flow Chart
