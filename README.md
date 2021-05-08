@@ -13,7 +13,7 @@ Created using ResNet Prestained Weighted Layers.
 # Model
 <a href="http://fvcproductions.com"><img src="https://github.com/gyrsh/Caption_bot/blob/master/Screenshot%20(50).png" ></a>
 
-# Output of Project
+# Output of Project(Prediction of Test Dataset)
 <a href="http://fvcproductions.com"><img src="https://github.com/gyrsh/Caption_bot/blob/master/Output_image_of_dog.png" ></a>
 <a href="http://fvcproductions.com"><img src="https://github.com/gyrsh/Caption_bot/blob/master/Output_image_of_players.png" ></a>
 
